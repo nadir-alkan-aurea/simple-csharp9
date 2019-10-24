@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace simple_csharp.directory1.directory2
+namespace simple_csharp.directory1.directory3
 {
     class ALongClass
     {
